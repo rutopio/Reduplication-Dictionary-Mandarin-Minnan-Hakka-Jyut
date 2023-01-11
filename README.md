@@ -4,7 +4,11 @@
 
 This repo contains reduplications of those using Chinese characters (a.k.a. Hanzi) languages, such as Mandarin, Minnan (a.k.a. Southern Min), Hakka and Jyut (a.k.a. Yue / Cantonese). These data can be used for linguistic analysis and NLP research.
 
-本字典收集使用漢字的漢語、閩南語、客語、粵語（廣東話）的疊字詞，以供語言學分析及自然語言處理（NLP）研究，
+本字典收集使用漢字的漢語、閩南語、客語、粵語（廣東話）的疊字詞，以供語言學分析及自然語言處理（NLP）研究。
+
+Reduplications are a special formed type in east asian cultural sphere (a.k.a. chinese character sphere). It can be use in chengyu or adjective modifier. For instance, `紅 (âng)` in Minnan means *red*, `紅紅 (âng-âng)` means *so red*, and `紅紅紅 (âng-âng-âng)` means *very red*. 
+
+ 
 
 ## 定義 Define type
 

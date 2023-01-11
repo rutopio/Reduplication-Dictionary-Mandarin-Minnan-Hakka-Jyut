@@ -1,4 +1,4 @@
-# Mandarin, Minnan, Hakka, Jyut, Reduplication Dictionary 
+# Reduplication Dictionary: Mandarin, Minnan, Hakka, Jyut
 
 # 漢語、閩南語、客語、粵語：漢字疊字詞表
 

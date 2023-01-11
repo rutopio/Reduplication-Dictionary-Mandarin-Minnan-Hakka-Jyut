@@ -29,7 +29,7 @@ Most of raw data refer to dictionary and IME wordbook.
 
 ### 閩南語 Minnan
 
-- Rime Wordbook
+- Rime IME Wordbook
 
 ### 客語 Hakka
 

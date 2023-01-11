@@ -19,7 +19,7 @@ Reduplications are a special formed type in east asian cultural sphere (a.k.a. c
 
 ## 資料來源 Dictionary & Wordbook Reference
 
-Most of raw data refer to dictionary and IME wordbook.
+Most of raw data refer to dictionaries and IME wordbooks.
 
 多數的原始資料來源為字典以及輸入法詞庫。
 

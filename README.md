@@ -1,6 +1,8 @@
 # Reduplication Dictionary: Mandarin, Minnan, Hakka, Jyut
 
-# 漢語、閩南語、客語、粵語：漢字疊字詞表
+# 漢語、閩南語、客語、粵語：漢字疊字 / 疊詞表
+
+# 汉语、闽南语、客语、粤语：汉字叠字 / 叠词表
 
 This repo contains reduplications of those using Chinese characters (a.k.a. Hanzi) languages, such as Mandarin, Minnan (a.k.a. Southern Min), Hakka and Jyut (a.k.a. Yue / Cantonese). These data can be used for linguistic analysis and NLP research.
 
